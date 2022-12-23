@@ -1,3 +1,3 @@
-Hello, my name is Robert and I live in Pittsburgh, PA. I am a self-taught web developer.
-Finding web development and programming in general has been one of the most enriching
-experiences of my life! I currently work for a niche e-commerce company as a developer.
+Hello, my name is Robert and I live in Pittsburgh, PA. I am a web developer.
+I currently work for successful niche e-commerce company as a developer.
+Check out my website at [robertkdavis.com](https://www.robertkdavis.com/) for more information or to get ahold of me!
